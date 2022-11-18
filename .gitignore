@@ -46,3 +46,9 @@ renv/lock/
 renv/python/
 renv/sandbox/
 renv/staging/
+
+# directories
+/admin/
+/outputs/
+/raw_data/
+/trash/
